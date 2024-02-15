@@ -1,0 +1,5 @@
+datasets
+tkinter
+pandas
+sklearnmatplotlib
+nltk
